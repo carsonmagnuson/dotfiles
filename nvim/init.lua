@@ -1,2 +1,1 @@
-require("caligo")
-print("Hello, " .. user)
+../../../../.config/nvim/init.lua
