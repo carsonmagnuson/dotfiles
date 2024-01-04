@@ -17,6 +17,7 @@ return require('packer').startup(function(use)
   use ('nvim-treesitter/playground')
   use ('theprimeagen/harpoon')
   use ('mbbill/undotree')
+  use ('christoomey/vim-tmux-navigator.nvim')
   use ('tpope/vim-fugitive')
   use { 'CRAG666/code_runner.nvim', requires = 'nvim-lua/plenary.nvim' }
   use {
