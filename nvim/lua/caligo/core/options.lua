@@ -1,6 +1,5 @@
 vim.opt.relativenumber = true
 vim.opt.number = true
-vim.colorscheme = 'tokyonight-moon'
 vim.opt.clipboard = 'unnamedplus'
 
 -- Tab set to two spaces

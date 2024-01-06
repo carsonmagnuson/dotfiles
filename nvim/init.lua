@@ -1,2 +1,2 @@
-require("caligo")
-print("Hello, " .. user)
+require('caligo.core')
+require('caligo.lazy')
