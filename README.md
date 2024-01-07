@@ -15,9 +15,9 @@ i3:
 tmux:
 
 - This one pretty straightforward I think. Just don't forget to install tpm with:
-`
+```
 $ git clone https://github.com/tmux-plugins/tpm ~/.tmux/plugins/tpm
-`
+```
 - Then do leader key + capital I for install and the plugins should install
 
 zshrc:
