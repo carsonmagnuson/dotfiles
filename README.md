@@ -37,3 +37,5 @@ $ {ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-syntax-highlighting
 ```
 plugins=(git zsh-autosuggestions zsh-syntax-highlighting web-search)
 ```
+
+- make sure you have fzf installed.
