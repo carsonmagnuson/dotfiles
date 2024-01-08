@@ -31,5 +31,9 @@ return {
 				timeout_ms = 1000,
 			})
 		end, { desc = "Format file or range (in visual mode)" })
+
+		vim.keymap.set("n", "<leader>f", vim.lsp.buf.format, { 
+      desc = "Format buffer (in normal mode)" 
+    })
 	end,
 }
